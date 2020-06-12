@@ -2,10 +2,10 @@
   margin: 0;
   padding: 0;
 }
-.jin{
+*jin{
     width: 100%;
     height: 100px;
-  background: #ff9999;
-    
+    background: #ff9999;
+    text-align: center; 
 }
 
